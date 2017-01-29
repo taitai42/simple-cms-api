@@ -1,0 +1,11 @@
+env: prod
+debug: false
+postgresql_addon_db: bzptv6raie4e9mp
+postgresql_addon_user: u8qgghu2zftbfavwdiy3
+postgresql_addon_password: NdsipxHEAHwE6VrApXKx
+postgresql_addon_host: bzptv6raie4e9mp-postgresql.services.clever-cloud.com
+postgresql_addon_port: 5432
+date_format: 2016-12-13T07:04:05-0700
+app_name: virtual-card
+port: 4242
+tokens: d52710fbd6c4e88e17fb99ecbafdb444,262f88aea715abc77259572f2011efce
